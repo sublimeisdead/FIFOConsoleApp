@@ -46,4 +46,4 @@ OK
 
 
 Сборка выполнена с помощью Maven(команда для сборки - mvn clean install).
-Также реализовано покрытие тестами.
+Также реализовано покрытие тестами. Данные хранятся в БД H2 в папке C:/Users/{Username}/MyWarehouse.mv.db(Windows), /home/{Username}/MyWarehouse.mv.db(Linux)
